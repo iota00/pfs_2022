@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #0E0115 !important;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+
+/* nav bar */
+
+li {
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+}
+
+.all {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    position: relative;
+    margin-left: 50px;
+    gap: 40px;
+}
+
+.container5 {
+    height: 1000px;
+    width: 800px;
+    padding: 20px;
+}
+
+.main2 {
+    justify-content: 100px;
+    margin-top: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.live-auction {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-bottom: 70px;
+}
+
+.live-auction h1 {
+    color: white;
+    margin-left: 120px;
+    font-family: 'Myriad Pro Bold Condensed';
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.container1 {
+    max-width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}

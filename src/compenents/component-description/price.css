@@ -1,0 +1,48 @@
+.current-price {
+    margin-top: 100px;
+    margin-bottom: 80px;
+    height: 200px;
+    background-color: #343444;
+    border-top: 15px solid #1f1f2a;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 20px;
+}
+
+.current-price p {
+    font-family: " Poppins", sans-serif;
+    color: white;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.current-price i {
+    margin-right: 5px;
+}
+
+.current-price h1 {
+    margin-top: 16px;
+    margin-left: 6px;
+    color: #9e9eba;
+    font-size: 30px;
+    font-family: " Poppins", sans-serif;
+    margin-bottom: 30px;
+}
+
+.current-price span {
+    font-size: 15px;
+    margin-left: 6px;
+}
+
+.current-price button {
+    width: 200px;
+    font-size: 30px;
+    margin-left: 6px;
+    height: 40px;
+    border-radius: 12px;
+    background-color: #b66fda;
+    color: white;
+    font-family: "Myriad Pro Bold Condensed";
+    font-size: 20px;
+    cursor: pointer;
+}

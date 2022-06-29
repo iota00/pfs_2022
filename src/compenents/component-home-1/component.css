@@ -1,0 +1,38 @@
+.col-section1 {
+    margin-top: 70px;
+}
+
+.col-section1 h1 {
+    font-family: "Myriad Pro Condensed";
+    color: white;
+    font-size: 60px;
+    word-spacing: 5px;
+    margin-bottom: 30px;
+}
+
+.p-text {
+    font-family: "Myriad Pro Condensed";
+    color: #666699;
+    font-size: 30px;
+}
+
+.list {
+    margin-top: 50px;
+}
+
+.liste1 li {
+    padding-right: 100px;
+    margin-bottom: 40px;
+}
+
+.liste2 a {
+    color: white;
+    font-family: 'Signika', sans-serif;
+    font-size: 30px;
+    padding: 10px;
+    border-style: solid;
+    border-radius: 16px;
+    border-color: #5d2579;
+}
+
+.liste2 a:hover {}

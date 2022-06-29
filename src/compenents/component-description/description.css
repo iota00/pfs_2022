@@ -1,0 +1,133 @@
+.container2 {
+    max-width: 1240px auto;
+    margin: 0;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 460px;
+    height: 500px;
+    margin-left: 20px;
+}
+
+.description {
+    z-index: 3;
+    background-color: #1f1f2a;
+    padding: 20px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+.about-maker {
+    z-index: 3;
+    background-color: #1f1f2a;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.about-maker p {
+    font-family: 'Signika', sans-serif;
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: white;
+    font-size: 15px;
+}
+
+.about-maker i {
+    margin-right: 10px;
+    color: white;
+}
+
+.description i {
+    margin-right: 10px;
+}
+
+.description p {
+    font-family: 'Signika', sans-serif;
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: white;
+    font-size: 15px;
+}
+
+.container2 .content {
+    font-family: 'Signika', sans-serif;
+    font-size: medium;
+    background-color: #343444;
+    z-index: 1;
+}
+
+.container2 .content p {
+    height: 200px;
+    max-height: 250px;
+    padding: 30px;
+    color: white;
+    font-size: 15px;
+    font-size: medium;
+}
+
+.container2 .content h1 {
+    padding-top: 30px;
+    padding-left: 30px;
+    color: white;
+    font-size: 15px;
+    font-size: medium;
+    padding-right: 40px;
+}
+
+.container2 .content span {
+    color: #b66fda;
+    margin-left: 8px;
+    margin-right: 6px;
+}
+
+.container2 .content i {
+    color: #b66fda;
+}
+
+.container2 .content1 {
+    font-family: " Poppins", sans-serif;
+    font-size: medium;
+    background-color: #343444;
+    z-index: 1;
+}
+
+.container2 .content1 p {
+    height: 200px;
+    max-height: 250px;
+    padding: 30px;
+    color: white;
+    font-size: 15px;
+    font-size: medium;
+}
+
+.arrow-icone {
+    padding-left: 52%;
+    font-size: 20px;
+}
+
+.container2 .content1 h1 {
+    padding-top: 30px;
+    padding-left: 30px;
+    color: white;
+    font-size: 15px;
+    font-size: medium;
+    padding-right: 40px;
+}
+
+.container2 .content1 span {
+    color: #b66fda;
+    margin-left: 8px;
+    margin-right: 6px;
+}
+
+.container2 .content1 i {
+    color: #b66fda;
+}
+
+
+/* .container3 {
+    height: 1000px;
+    width: 800px;
+    padding: 20px;
+} */

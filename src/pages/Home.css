@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #0E0115 !important;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+
+/* nav bar */
+
+li {
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+}
+
+.Section1 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-left: 100px !important;
+}
+
+.main1 {
+    margin-top: 150px;
+}
+
+.live-auction {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-bottom: 70px;
+    justify-content: space-between;
+}
+
+.main2 {
+    justify-content: 100px;
+    margin-top: 250px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.live-auction h1 {
+    color: white;
+    margin-left: 80px;
+    font-family: 'Signika', sans-serif;
+    font-weight: bold;
+}
+
+.live-auction p {
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: #c88be6;
+    margin-right: 130px;
+    font-family: 'Signika', sans-serif;
+}
+
+.container1 {
+    max-width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container1 a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.main3 {
+    margin-top: 100px;
+    margin-left: 110px;
+}
+
+.top-seller {
+    margin-bottom: 50px;
+}
+
+.top-seller h1 {
+    color: white;
+    font-family: 'Signika', sans-serif;
+    margin-left: 20px;
+}
+
+.card-seller {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 35px;
+    margin-bottom: 60px;
+}
+
+.main4 {
+    margin-top: 100px;
+    margin-left: 100px;
+}

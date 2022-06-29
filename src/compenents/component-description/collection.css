@@ -1,0 +1,33 @@
+.collection-name {
+    margin-top: 30px;
+    color: #b66fda;
+    font-family: 'Myriad Pro Regular';
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.collection-name i {
+    margin-left: 5px;
+}
+
+.nft-name1 {
+    font-family: 'Myriad Pro Regular';
+    color: white;
+    margin-bottom: 30px;
+}
+
+.maker-information p {
+    font-family: 'Myriad Pro Regular';
+    color: #9e9eba;
+}
+
+.maker-information span {
+    margin-left: 5px;
+    font-family: 'Myriad Pro Regular';
+    color: #b66fda;
+    margin-right: 70px;
+}
+
+.maker-information i {
+    margin-right: 7px;
+}

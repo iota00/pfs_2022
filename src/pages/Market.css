@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #0E0115 !important;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+
+/* nav bar */
+
+li {
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container1 {
+    max-width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 110px;
+}
+
+.container1 a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.main {
+    margin-top: 100px;
+}
+
+.SELECT {
+    margin-bottom: 170px;
+    margin-left: 50px;
+}

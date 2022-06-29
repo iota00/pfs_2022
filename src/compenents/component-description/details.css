@@ -1,0 +1,50 @@
+.about-maker {
+    z-index: 3;
+    background-color: #1f1f2a;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.about-maker p {
+    font-family: 'Signika', sans-serif;
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: white;
+    font-size: 15px;
+}
+
+.about-maker i {
+    margin-right: 10px;
+    color: white;
+}
+
+.about {
+    float: left;
+}
+
+.content3 {
+    height: 288px;
+    padding: 40px;
+    background-color: #343444;
+}
+
+.details-nft {
+    margin-bottom: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.details-nft .row1 {
+    color: white;
+    font-family: 'Myriad Pro Bold Condensed';
+    font-size: 20px;
+}
+
+.details-nft .row2 {
+    color: #9e9eba;
+    font-family: " Poppins", sans-serif;
+    font-size: 20px;
+}
